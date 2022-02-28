@@ -1,0 +1,3779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2802254,
+              29.9735151,
+              0
+            ],
+            [
+              31.2791417,
+              29.9737567,
+              0
+            ],
+            [
+              31.2787877,
+              29.9724927,
+              0
+            ],
+            [
+              31.2796138,
+              29.9723161,
+              0
+            ],
+            [
+              31.2802254,
+              29.9735151,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Qamar El Sena'ye - القمر الصناعي",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.282713,
+              29.9781816,
+              0
+            ],
+            [
+              31.2824126,
+              29.977689,
+              0
+            ],
+            [
+              31.2830349,
+              29.9774195,
+              0
+            ],
+            [
+              31.283464,
+              29.9779306,
+              0
+            ],
+            [
+              31.282713,
+              29.9781816,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Palestine Square - ميدان فليسطين",
+        "styleUrl": "#poly-000000-3901-77-nodesc",
+        "styleHash": "-f719248",
+        "styleMapHash": {
+          "normal": "#poly-000000-3901-77-nodesc-normal",
+          "highlight": "#poly-000000-3901-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 3.901,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2697226,
+              29.9600249,
+              0
+            ],
+            [
+              31.2697011,
+              29.9592813,
+              0
+            ],
+            [
+              31.2709671,
+              29.9592441,
+              0
+            ],
+            [
+              31.2709457,
+              29.960062,
+              0
+            ],
+            [
+              31.2697226,
+              29.9600249,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Victoria Square - ميدان فيكوريا",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.3269107,
+              29.9830737,
+              0
+            ],
+            [
+              31.3266532,
+              29.9826649,
+              0
+            ],
+            [
+              31.332318,
+              29.9803973,
+              0
+            ],
+            [
+              31.332833,
+              29.982256,
+              0
+            ],
+            [
+              31.3269107,
+              29.9830737,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Modern Academy - مودرن اكاديمي",
+        "styleUrl": "#poly-000000-3801-77-nodesc",
+        "styleHash": "-221bc028",
+        "styleMapHash": {
+          "normal": "#poly-000000-3801-77-nodesc-normal",
+          "highlight": "#poly-000000-3801-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 3.801,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2652409,
+              29.9736622,
+              0
+            ],
+            [
+              31.2651765,
+              29.9714316,
+              0
+            ],
+            [
+              31.2666785,
+              29.9713573,
+              0
+            ],
+            [
+              31.2669789,
+              29.9736994,
+              0
+            ],
+            [
+              31.2652409,
+              29.9736622,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Arab El Maadi - عرب المعادي",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2584507,
+              29.9636874,
+              0
+            ],
+            [
+              31.2617552,
+              29.9581475,
+              0
+            ],
+            [
+              31.2670767,
+              29.9530535,
+              0
+            ],
+            [
+              31.2721836,
+              29.9511199,
+              0
+            ],
+            [
+              31.2780201,
+              29.954987,
+              0
+            ],
+            [
+              31.2780201,
+              29.9628694,
+              0
+            ],
+            [
+              31.2584507,
+              29.9636874,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Degla - دجله",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2804891,
+              29.9723935,
+              0
+            ],
+            [
+              31.2798775,
+              29.9705533,
+              0
+            ],
+            [
+              31.2855316,
+              29.9701722,
+              0
+            ],
+            [
+              31.2856711,
+              29.9723749,
+              0
+            ],
+            [
+              31.2804891,
+              29.9723935,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Technology Park - القرية التكنولوجية",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2766052,
+              29.9745739,
+              0
+            ],
+            [
+              31.2741161,
+              29.9810793,
+              0
+            ],
+            [
+              31.2740947,
+              29.9824547,
+              0
+            ],
+            [
+              31.2737728,
+              29.9824919,
+              0
+            ],
+            [
+              31.2737728,
+              29.9810422,
+              0
+            ],
+            [
+              31.2759186,
+              29.974388,
+              0
+            ],
+            [
+              31.2766052,
+              29.9745739,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Gazayeer - الجزائر",
+        "styleUrl": "#poly-000000-3501-77-nodesc",
+        "styleHash": "-5a1a49c8",
+        "styleMapHash": {
+          "normal": "#poly-000000-3501-77-nodesc-normal",
+          "highlight": "#poly-000000-3501-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 3.501,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2485147,
+              29.9595229,
+              0
+            ],
+            [
+              31.2548662,
+              29.9540943,
+              0
+            ],
+            [
+              31.2604023,
+              29.9561394,
+              0
+            ],
+            [
+              31.2569261,
+              29.9621627,
+              0
+            ],
+            [
+              31.2485147,
+              29.9595229,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Electricity company - شركه الكهرباء",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2837175,
+              29.9650859,
+              0
+            ],
+            [
+              31.2855414,
+              29.964175,
+              0
+            ],
+            [
+              31.2864212,
+              29.9643051,
+              0
+            ],
+            [
+              31.2866357,
+              29.967614,
+              0
+            ],
+            [
+              31.2850049,
+              29.9677441,
+              0
+            ],
+            [
+              31.2837175,
+              29.9650859,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Shatr El Khamis Nerko - الشطر الخامس نيركو",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2465358,
+              29.9737244,
+              0
+            ],
+            [
+              31.2483383,
+              29.96733,
+              0
+            ],
+            [
+              31.2516857,
+              29.9683338,
+              0
+            ],
+            [
+              31.2473083,
+              29.9739847,
+              0
+            ],
+            [
+              31.2465358,
+              29.9737244,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hadayeq El Maadi - حدايق المعادي",
+        "styleUrl": "#poly-EDA29B-1200-77-nodesc",
+        "styleHash": "-5b187faf",
+        "styleMapHash": {
+          "normal": "#poly-EDA29B-1200-77-nodesc-normal",
+          "highlight": "#poly-EDA29B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#eda29b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#eda29b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2822705,
+              29.9872241,
+              0
+            ],
+            [
+              31.2842016,
+              29.9820758,
+              0
+            ],
+            [
+              31.2890296,
+              29.9819643,
+              0
+            ],
+            [
+              31.2889223,
+              29.9828564,
+              0
+            ],
+            [
+              31.2888365,
+              29.9838415,
+              0
+            ],
+            [
+              31.2887292,
+              29.9856443,
+              0
+            ],
+            [
+              31.2881284,
+              29.9870382,
+              0
+            ],
+            [
+              31.2869053,
+              29.988302,
+              0
+            ],
+            [
+              31.2822705,
+              29.9872241,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Saqr Korish - صقر قريش",
+        "styleUrl": "#poly-000000-3801-77-nodesc",
+        "styleHash": "-221bc028",
+        "styleMapHash": {
+          "normal": "#poly-000000-3801-77-nodesc-normal",
+          "highlight": "#poly-000000-3801-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 3.801,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2780073,
+              29.9669046,
+              0
+            ],
+            [
+              31.2857321,
+              29.9635585,
+              0
+            ],
+            [
+              31.2873199,
+              29.9639303,
+              0
+            ],
+            [
+              31.2872341,
+              29.9664585,
+              0
+            ],
+            [
+              31.2882212,
+              29.9690609,
+              0
+            ],
+            [
+              31.2898519,
+              29.9723325,
+              0
+            ],
+            [
+              31.2895944,
+              29.9774998,
+              0
+            ],
+            [
+              31.2885645,
+              29.9776857,
+              0
+            ],
+            [
+              31.2861183,
+              29.9760128,
+              0
+            ],
+            [
+              31.2818697,
+              29.975418,
+              0
+            ],
+            [
+              31.2780073,
+              29.9669046,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "تقسيم اللا سلكي",
+        "styleUrl": "#poly-000000-1200-77-nodesc",
+        "styleHash": "62d60dbc",
+        "styleMapHash": {
+          "normal": "#poly-000000-1200-77-nodesc-normal",
+          "highlight": "#poly-000000-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#000000",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2690149,
+              29.975174,
+              0
+            ],
+            [
+              31.2900895,
+              29.9767626,
+              0
+            ],
+            [
+              31.2893514,
+              29.9826705,
+              0
+            ],
+            [
+              31.2878579,
+              29.9876912,
+              0
+            ],
+            [
+              31.283223,
+              29.9907392,
+              0
+            ],
+            [
+              31.2692327,
+              29.9900701,
+              0
+            ],
+            [
+              31.2690149,
+              29.975174,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Basateen El Sharqeya - البساتسن الشرقيه‎",
+        "styleUrl": "#poly-FF5252-1200-77-nodesc",
+        "styleHash": "-53e2fab2",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-1200-77-nodesc-normal",
+          "highlight": "#poly-FF5252-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2698634,
+              29.9694485,
+              0
+            ],
+            [
+              31.2700057,
+              29.964884,
+              0
+            ],
+            [
+              31.274426,
+              29.9633225,
+              0
+            ],
+            [
+              31.2776017,
+              29.9658506,
+              0
+            ],
+            [
+              31.2782455,
+              29.968639,
+              0
+            ],
+            [
+              31.2698634,
+              29.9694485,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Nadi El Gedid- النادي الجديد \n",
+        "styleUrl": "#poly-FF5252-1200-77-nodesc",
+        "styleHash": "-53e2fab2",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-1200-77-nodesc-normal",
+          "highlight": "#poly-FF5252-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2850581,
+          29.9774029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lab_02",
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+        "styleHash": "-64e21fca",
+        "styleMapHash": {
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+          "highlight": "#icon-1899-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon-offset": [
+          32,
+          64
+        ],
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.281378,
+              29.9753173,
+              0
+            ],
+            [
+              31.2708637,
+              29.9723433,
+              0
+            ],
+            [
+              31.2702629,
+              29.971228,
+              0
+            ],
+            [
+              31.2698634,
+              29.9694485,
+              0
+            ],
+            [
+              31.2782455,
+              29.968639,
+              0
+            ],
+            [
+              31.281378,
+              29.9753173,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "عرب المعادي- Arab Al-Maadi",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2720091,
+              29.9900336,
+              0
+            ],
+            [
+              31.2740947,
+              29.9824547,
+              0
+            ],
+            [
+              31.2887292,
+              29.9856443,
+              0
+            ],
+            [
+              31.2881284,
+              29.9870382,
+              0
+            ],
+            [
+              31.283223,
+              29.9907392,
+              0
+            ],
+            [
+              31.2720091,
+              29.9900336,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "صقر قريش - saqr quraysh",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2697736,
+              29.9691256,
+              0
+            ],
+            [
+              31.2697307,
+              29.9669693,
+              0
+            ],
+            [
+              31.2705032,
+              29.9595334,
+              0
+            ],
+            [
+              31.2717906,
+              29.9513533,
+              0
+            ],
+            [
+              31.2732497,
+              29.9519482,
+              0
+            ],
+            [
+              31.2823049,
+              29.9586039,
+              0
+            ],
+            [
+              31.2870685,
+              29.95905,
+              0
+            ],
+            [
+              31.2869826,
+              29.9622104,
+              0
+            ],
+            [
+              31.2773696,
+              29.9667834,
+              0
+            ],
+            [
+              31.2780563,
+              29.9683077,
+              0
+            ],
+            [
+              31.2697736,
+              29.9691256,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "دجلة- Degla",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2780073,
+              29.9669046,
+              0
+            ],
+            [
+              31.2872621,
+              29.9627455,
+              0
+            ],
+            [
+              31.2871762,
+              29.9657571,
+              0
+            ],
+            [
+              31.2882212,
+              29.9690609,
+              0
+            ],
+            [
+              31.2898519,
+              29.9723325,
+              0
+            ],
+            [
+              31.2895944,
+              29.9774998,
+              0
+            ],
+            [
+              31.2882491,
+              29.9776163,
+              0
+            ],
+            [
+              31.2861183,
+              29.9760128,
+              0
+            ],
+            [
+              31.2818697,
+              29.975418,
+              0
+            ],
+            [
+              31.2780073,
+              29.9669046,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "taqseem laselky - تقسيم اللاسلكي",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2550361,
+              29.96441,
+              0
+            ],
+            [
+              31.2638337,
+              29.9523261,
+              0
+            ],
+            [
+              31.2676102,
+              29.9499091,
+              0
+            ],
+            [
+              31.2712582,
+              29.951204,
+              0
+            ],
+            [
+              31.2690265,
+              29.969206,
+              0
+            ],
+            [
+              31.2550361,
+              29.96441,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sarayat EL- Maadi - سرايات المعادي",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2391552,
+              29.9675549,
+              0
+            ],
+            [
+              31.25748,
+              29.9518646,
+              0
+            ],
+            [
+              31.2624153,
+              29.9537982,
+              0
+            ],
+            [
+              31.2485536,
+              29.9725367,
+              0
+            ],
+            [
+              31.2470516,
+              29.9720534,
+              0
+            ],
+            [
+              31.2391552,
+              29.9675549,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Old Maadi - معادي القديمه",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2720167,
+              29.9816304,
+              0
+            ],
+            [
+              31.2734758,
+              29.973229,
+              0
+            ],
+            [
+              31.2864362,
+              29.9765004,
+              0
+            ],
+            [
+              31.2893545,
+              29.9784335,
+              0
+            ],
+            [
+              31.288582,
+              29.9849015,
+              0
+            ],
+            [
+              31.2720167,
+              29.9816304,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "المعادي الجديده - New Maadi",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.229643,
+              29.9841987,
+              0
+            ],
+            [
+              31.2326041,
+              29.9787715,
+              0
+            ],
+            [
+              31.2355653,
+              29.9720057,
+              0
+            ],
+            [
+              31.2386981,
+              29.9686598,
+              0
+            ],
+            [
+              31.2420455,
+              29.9656855,
+              0
+            ],
+            [
+              31.2456933,
+              29.9625996,
+              0
+            ],
+            [
+              31.2486116,
+              29.9590303,
+              0
+            ],
+            [
+              31.2501565,
+              29.9573943,
+              0
+            ],
+            [
+              31.2523452,
+              29.9556468,
+              0
+            ],
+            [
+              31.2563792,
+              29.9527093,
+              0
+            ],
+            [
+              31.2611858,
+              29.9502552,
+              0
+            ],
+            [
+              31.2647907,
+              29.9484703,
+              0
+            ],
+            [
+              31.2694684,
+              29.9457186,
+              0
+            ],
+            [
+              31.275262,
+              29.9387645,
+              0
+            ],
+            [
+              31.2756482,
+              29.9390992,
+              0
+            ],
+            [
+              31.2747899,
+              29.9401777,
+              0
+            ],
+            [
+              31.2694255,
+              29.9463136,
+              0
+            ],
+            [
+              31.2589542,
+              29.9518913,
+              0
+            ],
+            [
+              31.2553922,
+              29.953862,
+              0
+            ],
+            [
+              31.2498561,
+              29.9581751,
+              0
+            ],
+            [
+              31.2453071,
+              29.9638266,
+              0
+            ],
+            [
+              31.2397281,
+              29.9681021,
+              0
+            ],
+            [
+              31.236209,
+              29.97208,
+              0
+            ],
+            [
+              31.2349216,
+              29.9747567,
+              0
+            ],
+            [
+              31.2324754,
+              29.9801841,
+              0
+            ],
+            [
+              31.2300721,
+              29.9842731,
+              0
+            ],
+            [
+              31.229643,
+              29.9841987,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "kornes El-nile - كورنيش النيل",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  31.2992597,
+                  29.9618078,
+                  0
+                ],
+                [
+                  31.2985209,
+                  29.9618078,
+                  0
+                ],
+                [
+                  31.2991646,
+                  29.9617706,
+                  0
+                ],
+                [
+                  31.2992597,
+                  29.9618078,
+                  0
+                ]
+              ]
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  31.2992597,
+                  29.9618078,
+                  0
+                ],
+                [
+                  31.30101,
+                  29.9618078,
+                  0
+                ],
+                [
+                  31.3130692,
+                  29.9612873,
+                  0
+                ],
+                [
+                  31.3143996,
+                  29.961436,
+                  0
+                ],
+                [
+                  31.3153866,
+                  29.9622168,
+                  0
+                ],
+                [
+                  31.3162879,
+                  29.9590193,
+                  0
+                ],
+                [
+                  31.3293341,
+                  29.9615476,
+                  0
+                ],
+                [
+                  31.3295916,
+                  29.9690949,
+                  0
+                ],
+                [
+                  31.3216952,
+                  29.9693179,
+                  0
+                ],
+                [
+                  31.3137559,
+                  29.9673847,
+                  0
+                ],
+                [
+                  31.3014392,
+                  29.9629232,
+                  0
+                ],
+                [
+                  31.2994651,
+                  29.9624027,
+                  0
+                ],
+                [
+                  31.3004951,
+                  29.9622912,
+                  0
+                ],
+                [
+                  31.2992597,
+                  29.9618078,
+                  0
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "name": "زهراء المعادي-zhraa EL-Maadi",
+        "styleUrl": "#poly-F57C00-1200-77-nodesc",
+        "styleHash": "560eca0b",
+        "styleMapHash": {
+          "normal": "#poly-F57C00-1200-77-nodesc-normal",
+          "highlight": "#poly-F57C00-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#f57c00",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#f57c00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.3342694,
+              29.9696153,
+              0
+            ],
+            [
+              31.337531,
+              29.9815857,
+              0
+            ],
+            [
+              31.3348702,
+              29.9819574,
+              0
+            ],
+            [
+              31.3227252,
+              29.9836673,
+              0
+            ],
+            [
+              31.3183049,
+              29.9834443,
+              0
+            ],
+            [
+              31.3179186,
+              29.981883,
+              0
+            ],
+            [
+              31.3142708,
+              29.968277,
+              0
+            ],
+            [
+              31.321309,
+              29.9699499,
+              0
+            ],
+            [
+              31.3342694,
+              29.9696153,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bitcho city - بيتشو سيتي ‎",
+        "styleUrl": "#poly-F57C00-1200-77-nodesc",
+        "styleHash": "560eca0b",
+        "styleMapHash": {
+          "normal": "#poly-F57C00-1200-77-nodesc-normal",
+          "highlight": "#poly-F57C00-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#f57c00",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#f57c00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2720091,
+              29.9900336,
+              0
+            ],
+            [
+              31.2720167,
+              29.9816304,
+              0
+            ],
+            [
+              31.2734758,
+              29.973229,
+              0
+            ],
+            [
+              31.2708637,
+              29.9723433,
+              0
+            ],
+            [
+              31.2697736,
+              29.9691256,
+              0
+            ],
+            [
+              31.2550361,
+              29.96441,
+              0
+            ],
+            [
+              31.2485536,
+              29.9725367,
+              0
+            ],
+            [
+              31.2391552,
+              29.9675549,
+              0
+            ],
+            [
+              31.25748,
+              29.9518646,
+              0
+            ],
+            [
+              31.2624153,
+              29.9537982,
+              0
+            ],
+            [
+              31.2676102,
+              29.9499091,
+              0
+            ],
+            [
+              31.2717906,
+              29.9513533,
+              0
+            ],
+            [
+              31.2823049,
+              29.9586039,
+              0
+            ],
+            [
+              31.2870685,
+              29.95905,
+              0
+            ],
+            [
+              31.2871762,
+              29.9657571,
+              0
+            ],
+            [
+              31.2902906,
+              29.9733985,
+              0
+            ],
+            [
+              31.2888365,
+              29.9838415,
+              0
+            ],
+            [
+              31.2881284,
+              29.9870382,
+              0
+            ],
+            [
+              31.283223,
+              29.9907392,
+              0
+            ],
+            [
+              31.2720091,
+              29.9900336,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "معادي",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2878212,
+              29.9629392,
+              0
+            ],
+            [
+              31.313313,
+              29.954908,
+              0
+            ],
+            [
+              31.3339123,
+              29.9560979,
+              0
+            ],
+            [
+              31.3364014,
+              29.9742411,
+              0
+            ],
+            [
+              31.332539,
+              29.9792225,
+              0
+            ],
+            [
+              31.3243851,
+              29.9766203,
+              0
+            ],
+            [
+              31.2878212,
+              29.9629392,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "زهراء المعادي",
+        "styleUrl": "#poly-7CB342-1200-77-nodesc",
+        "styleHash": "-384ae1b5",
+        "styleMapHash": {
+          "normal": "#poly-7CB342-1200-77-nodesc-normal",
+          "highlight": "#poly-7CB342-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#7cb342",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#7cb342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.945155,
+              29.972441,
+              0
+            ],
+            [
+              30.9569997,
+              29.9590567,
+              0
+            ],
+            [
+              30.9599179,
+              29.9589823,
+              0
+            ],
+            [
+              30.9637803,
+              29.9616593,
+              0
+            ],
+            [
+              30.9640378,
+              29.9633696,
+              0
+            ],
+            [
+              30.9529656,
+              29.9763072,
+              0
+            ],
+            [
+              30.9518498,
+              29.9767533,
+              0
+            ],
+            [
+              30.945155,
+              29.972441,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 1st District - الحي الاول",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9427737,
+              29.9756893,
+              0
+            ],
+            [
+              30.9524726,
+              29.9816371,
+              0
+            ],
+            [
+              30.9464644,
+              29.9908555,
+              0
+            ],
+            [
+              30.935049,
+              29.9839418,
+              0
+            ],
+            [
+              30.9427737,
+              29.9756893,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 7th District - الحي السابع",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9280967,
+              29.9768046,
+              0
+            ],
+            [
+              30.9342765,
+              29.9700386,
+              0
+            ],
+            [
+              30.9427737,
+              29.9756893,
+              0
+            ],
+            [
+              30.9347915,
+              29.9834214,
+              0
+            ],
+            [
+              30.9288692,
+              29.9797785,
+              0
+            ],
+            [
+              30.9280967,
+              29.9768046,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 8th District - الحي الثامن",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9798304,
+              30.0121656,
+              0
+            ],
+            [
+              30.9816972,
+              30.0099731,
+              0
+            ],
+            [
+              30.9822337,
+              30.0097687,
+              0
+            ],
+            [
+              30.9842292,
+              30.0102332,
+              0
+            ],
+            [
+              30.9864823,
+              30.0100846,
+              0
+            ],
+            [
+              30.9904734,
+              30.0096386,
+              0
+            ],
+            [
+              30.9922115,
+              30.0101775,
+              0
+            ],
+            [
+              30.9913103,
+              30.0114596,
+              0
+            ],
+            [
+              30.9911815,
+              30.0126116,
+              0
+            ],
+            [
+              30.9910528,
+              30.0141723,
+              0
+            ],
+            [
+              30.9906022,
+              30.0143581,
+              0
+            ],
+            [
+              30.9870617,
+              30.014321,
+              0
+            ],
+            [
+              30.9863321,
+              30.0144696,
+              0
+            ],
+            [
+              30.9846155,
+              30.0152128,
+              0
+            ],
+            [
+              30.9798304,
+              30.0121656,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - Nile University - جامعه النيل\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9201803,
+              29.9724986,
+              0
+            ],
+            [
+              30.9215,
+              29.9712439,
+              0
+            ],
+            [
+              30.9228303,
+              29.9698498,
+              0
+            ],
+            [
+              30.924504,
+              29.9710208,
+              0
+            ],
+            [
+              30.9249976,
+              29.9712811,
+              0
+            ],
+            [
+              30.9257915,
+              29.9714112,
+              0
+            ],
+            [
+              30.9264782,
+              29.9716528,
+              0
+            ],
+            [
+              30.9303405,
+              29.9741994,
+              0
+            ],
+            [
+              30.9278944,
+              29.9768574,
+              0
+            ],
+            [
+              30.9261777,
+              29.9756864,
+              0
+            ],
+            [
+              30.9256198,
+              29.9753518,
+              0
+            ],
+            [
+              30.9248045,
+              29.9751288,
+              0
+            ],
+            [
+              30.9237745,
+              29.9748128,
+              0
+            ],
+            [
+              30.9201803,
+              29.9724986,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 9th District - الحي التاسع‎",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.93706,
+              29.9666526,
+              0
+            ],
+            [
+              30.9404074,
+              29.9630834,
+              0
+            ],
+            [
+              30.9412657,
+              29.9608898,
+              0
+            ],
+            [
+              30.9437119,
+              29.9586218,
+              0
+            ],
+            [
+              30.9507071,
+              29.962786,
+              0
+            ],
+            [
+              30.9508788,
+              29.9639757,
+              0
+            ],
+            [
+              30.9493338,
+              29.9659091,
+              0
+            ],
+            [
+              30.9487759,
+              29.9673218,
+              0
+            ],
+            [
+              30.9450423,
+              29.9717831,
+              0
+            ],
+            [
+              30.9444415,
+              29.9719318,
+              0
+            ],
+            [
+              30.9371888,
+              29.9671359,
+              0
+            ],
+            [
+              30.93706,
+              29.9666526,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 2nd District - الحي الثاني",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9626989,
+              29.9960307,
+              0
+            ],
+            [
+              30.9877615,
+              29.9748431,
+              0
+            ],
+            [
+              30.9908514,
+              29.9758097,
+              0
+            ],
+            [
+              30.9944563,
+              29.9761071,
+              0
+            ],
+            [
+              31.0019236,
+              29.9743227,
+              0
+            ],
+            [
+              31.0038977,
+              29.974397,
+              0
+            ],
+            [
+              31.0058718,
+              29.9796758,
+              0
+            ],
+            [
+              30.9821825,
+              30.0074776,
+              0
+            ],
+            [
+              30.9806375,
+              30.0076262,
+              0
+            ],
+            [
+              30.9626989,
+              29.9960307,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - El Hay El Motamyez - الحي المتميز",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9516942,
+              29.9841836,
+              0
+            ],
+            [
+              30.9689462,
+              29.9638114,
+              0
+            ],
+            [
+              30.9709203,
+              29.9632909,
+              0
+            ],
+            [
+              30.9872281,
+              29.973998,
+              0
+            ],
+            [
+              30.9605348,
+              29.9944424,
+              0
+            ],
+            [
+              30.9527242,
+              29.9888671,
+              0
+            ],
+            [
+              30.9516942,
+              29.9841836,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - West Somed - غرب سوميد\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9296372,
+              29.9611027,
+              0
+            ],
+            [
+              30.9326842,
+              29.9578308,
+              0
+            ],
+            [
+              30.9335425,
+              29.9560089,
+              0
+            ],
+            [
+              30.9361174,
+              29.9529227,
+              0
+            ],
+            [
+              30.9380915,
+              29.9544844,
+              0
+            ],
+            [
+              30.938821,
+              29.9555255,
+              0
+            ],
+            [
+              30.9431555,
+              29.9583885,
+              0
+            ],
+            [
+              30.9411814,
+              29.9606194,
+              0
+            ],
+            [
+              30.9404518,
+              29.9623297,
+              0
+            ],
+            [
+              30.9386494,
+              29.9645233,
+              0
+            ],
+            [
+              30.9364178,
+              29.9666053,
+              0
+            ],
+            [
+              30.9347441,
+              29.9654899,
+              0
+            ],
+            [
+              30.9325125,
+              29.9629617,
+              0
+            ],
+            [
+              30.9296372,
+              29.9611027,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 3rd District - الحي الثالث",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9667361,
+              30.0337719,
+              0
+            ],
+            [
+              30.9693539,
+              30.0302052,
+              0
+            ],
+            [
+              30.9731734,
+              30.0262667,
+              0
+            ],
+            [
+              30.9741175,
+              30.0258951,
+              0
+            ],
+            [
+              30.9747183,
+              30.0261181,
+              0
+            ],
+            [
+              30.9822714,
+              30.033549,
+              0
+            ],
+            [
+              30.9824431,
+              30.0341434,
+              0
+            ],
+            [
+              30.9807265,
+              30.0356667,
+              0
+            ],
+            [
+              30.9790099,
+              30.0377101,
+              0
+            ],
+            [
+              30.9779799,
+              30.0377844,
+              0
+            ],
+            [
+              30.9669936,
+              30.0342921,
+              0
+            ],
+            [
+              30.9667361,
+              30.0337719,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed -district 8 - الحي الثامن",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9961322,
+              30.0233676,
+              0
+            ],
+            [
+              30.9940079,
+              30.020525,
+              0
+            ],
+            [
+              30.9940723,
+              30.0195775,
+              0
+            ],
+            [
+              30.9998658,
+              30.0193359,
+              0
+            ],
+            [
+              31.0042861,
+              30.0222714,
+              0
+            ],
+            [
+              31.0043076,
+              30.0226801,
+              0
+            ],
+            [
+              31.0025051,
+              30.0246495,
+              0
+            ],
+            [
+              31.0019258,
+              30.0247052,
+              0
+            ],
+            [
+              30.9999302,
+              30.0234233,
+              0
+            ],
+            [
+              30.9966686,
+              30.0235348,
+              0
+            ],
+            [
+              30.9961322,
+              30.0233676,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - Zayed 2000 - زايد 2000",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9803393,
+              30.0311145,
+              0
+            ],
+            [
+              30.9753182,
+              30.0260986,
+              0
+            ],
+            [
+              30.9750178,
+              30.0248352,
+              0
+            ],
+            [
+              30.9807256,
+              30.0217141,
+              0
+            ],
+            [
+              30.9816268,
+              30.0217141,
+              0
+            ],
+            [
+              30.9822276,
+              30.0225315,
+              0
+            ],
+            [
+              30.9887937,
+              30.0280306,
+              0
+            ],
+            [
+              30.9893516,
+              30.0295912,
+              0
+            ],
+            [
+              30.9894374,
+              30.0304829,
+              0
+            ],
+            [
+              30.9832576,
+              30.0334552,
+              0
+            ],
+            [
+              30.9824851,
+              30.0332323,
+              0
+            ],
+            [
+              30.9803393,
+              30.0311145,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - district 7 - الحي السابع\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.012124,
+              29.9956643,
+              0
+            ],
+            [
+              31.0137763,
+              29.9915758,
+              0
+            ],
+            [
+              31.0140123,
+              29.9914828,
+              0
+            ],
+            [
+              31.0182609,
+              29.9942519,
+              0
+            ],
+            [
+              31.0151066,
+              29.9976899,
+              0
+            ],
+            [
+              31.012124,
+              29.9956643,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Educational City - المدينه التعلميه",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9147119,
+              29.9636008,
+              0
+            ],
+            [
+              30.917716,
+              29.9598084,
+              0
+            ],
+            [
+              30.9186601,
+              29.9596968,
+              0
+            ],
+            [
+              30.9208488,
+              29.9611841,
+              0
+            ],
+            [
+              30.9234237,
+              29.9618533,
+              0
+            ],
+            [
+              30.9246683,
+              29.9625597,
+              0
+            ],
+            [
+              30.9266424,
+              29.9639726,
+              0
+            ],
+            [
+              30.9256553,
+              29.9651251,
+              0
+            ],
+            [
+              30.9252691,
+              29.9664635,
+              0
+            ],
+            [
+              30.9226941,
+              29.9693634,
+              0
+            ],
+            [
+              30.9202909,
+              29.9676161,
+              0
+            ],
+            [
+              30.9195184,
+              29.9665751,
+              0
+            ],
+            [
+              30.9147119,
+              29.9636008,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 10th District - الحي العاشر\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9313404,
+              29.9821659,
+              0
+            ],
+            [
+              30.9355676,
+              29.9848051,
+              0
+            ],
+            [
+              30.9344518,
+              29.986069,
+              0
+            ],
+            [
+              30.9357392,
+              29.9869611,
+              0
+            ],
+            [
+              30.9367478,
+              29.9877974,
+              0
+            ],
+            [
+              30.9367048,
+              29.9883921,
+              0
+            ],
+            [
+              30.9357607,
+              29.9893957,
+              0
+            ],
+            [
+              30.9319627,
+              29.9872212,
+              0
+            ],
+            [
+              30.9321344,
+              29.9869982,
+              0
+            ],
+            [
+              30.9302246,
+              29.9863477,
+              0
+            ],
+            [
+              30.9291517,
+              29.9865893,
+              0
+            ],
+            [
+              30.9273064,
+              29.9856043,
+              0
+            ],
+            [
+              30.9303963,
+              29.9820916,
+              0
+            ],
+            [
+              30.9313404,
+              29.9821659,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Teba Gardens - طيبه جاردنز\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9189921,
+              30.0062198,
+              0
+            ],
+            [
+              30.9283906,
+              29.9945127,
+              0
+            ],
+            [
+              30.939334,
+              30.0016486,
+              0
+            ],
+            [
+              30.9294635,
+              30.0128347,
+              0
+            ],
+            [
+              30.9189921,
+              30.0062198,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Mountain View - موانتن فيو ",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0007447,
+              30.0274176,
+              0
+            ],
+            [
+              31.0044784,
+              30.022996,
+              0
+            ],
+            [
+              31.0052938,
+              30.0229589,
+              0
+            ],
+            [
+              31.0103578,
+              30.0263773,
+              0
+            ],
+            [
+              31.0121173,
+              30.0285694,
+              0
+            ],
+            [
+              31.0099286,
+              30.0309473,
+              0
+            ],
+            [
+              31.0098428,
+              30.0315046,
+              0
+            ],
+            [
+              31.0101003,
+              30.0330651,
+              0
+            ],
+            [
+              31.007182,
+              30.0333995,
+              0
+            ],
+            [
+              31.0012168,
+              30.029424,
+              0
+            ],
+            [
+              31.0004872,
+              30.0281236,
+              0
+            ],
+            [
+              31.0007447,
+              30.0274176,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - El Hay 2 - الحي الثاني",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9208716,
+              29.9566661,
+              0
+            ],
+            [
+              30.9272231,
+              29.9487088,
+              0
+            ],
+            [
+              30.9278668,
+              29.9482254,
+              0
+            ],
+            [
+              30.9326733,
+              29.9513489,
+              0
+            ],
+            [
+              30.9344758,
+              29.9520554,
+              0
+            ],
+            [
+              30.9355487,
+              29.9528363,
+              0
+            ],
+            [
+              30.9331454,
+              29.955625,
+              0
+            ],
+            [
+              30.9320296,
+              29.9577816,
+              0
+            ],
+            [
+              30.9291543,
+              29.9607932,
+              0
+            ],
+            [
+              30.9259785,
+              29.9587111,
+              0
+            ],
+            [
+              30.9236611,
+              29.9581534,
+              0
+            ],
+            [
+              30.9208716,
+              29.9566661,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - 4th District - الحي الرابع",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9184479,
+              29.980542,
+              0
+            ],
+            [
+              30.921173,
+              29.9772522,
+              0
+            ],
+            [
+              30.9216451,
+              29.9771778,
+              0
+            ],
+            [
+              30.924456,
+              29.9789436,
+              0
+            ],
+            [
+              30.9244989,
+              29.9792596,
+              0
+            ],
+            [
+              30.9219026,
+              29.9822148,
+              0
+            ],
+            [
+              30.921409,
+              29.9824936,
+              0
+            ],
+            [
+              30.9184479,
+              29.980542,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Wahet El Mohandsen - واحه المهندسين",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0517381,
+              29.9965524,
+              0
+            ],
+            [
+              31.0352586,
+              30.0154314,
+              0
+            ],
+            [
+              31.0262464,
+              30.0106005,
+              0
+            ],
+            [
+              31.035087,
+              30.0001947,
+              0
+            ],
+            [
+              31.0405801,
+              29.9985594,
+              0
+            ],
+            [
+              31.044185,
+              29.994248,
+              0
+            ],
+            [
+              31.0440134,
+              29.9932816,
+              0
+            ],
+            [
+              31.0453867,
+              29.9920179,
+              0
+            ],
+            [
+              31.0517381,
+              29.9965524,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Palm Hills - بالم هيلز\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9583166,
+              30.0379433,
+              0
+            ],
+            [
+              30.962179,
+              30.033225,
+              0
+            ],
+            [
+              30.9653977,
+              30.0342652,
+              0
+            ],
+            [
+              30.965741,
+              30.0348597,
+              0
+            ],
+            [
+              30.9634665,
+              30.0397637,
+              0
+            ],
+            [
+              30.9602907,
+              30.0391322,
+              0
+            ],
+            [
+              30.9583166,
+              30.0379433,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - district 9 - الحي التاسع",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.9648,
+              30.0415587,
+              0
+            ],
+            [
+              30.9639847,
+              30.0404814,
+              0
+            ],
+            [
+              30.9659588,
+              30.0352058,
+              0
+            ],
+            [
+              30.9665596,
+              30.0347228,
+              0
+            ],
+            [
+              30.9674608,
+              30.0348715,
+              0
+            ],
+            [
+              30.978018,
+              30.038438,
+              0
+            ],
+            [
+              30.9783184,
+              30.0388839,
+              0
+            ],
+            [
+              30.9766876,
+              30.0424503,
+              0
+            ],
+            [
+              30.976001,
+              30.0427475,
+              0
+            ],
+            [
+              30.9730398,
+              30.0415587,
+              0
+            ],
+            [
+              30.9718811,
+              30.0414101,
+              0
+            ],
+            [
+              30.9648,
+              30.0415587,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - district 10 - الحي العاشر",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0032305,
+              30.0408855,
+              0
+            ],
+            [
+              31.0054191,
+              30.0380991,
+              0
+            ],
+            [
+              31.0088953,
+              30.0376533,
+              0
+            ],
+            [
+              31.0095819,
+              30.0371703,
+              0
+            ],
+            [
+              31.0109981,
+              30.0353127,
+              0
+            ],
+            [
+              31.0108694,
+              30.0340867,
+              0
+            ],
+            [
+              31.0131868,
+              30.0334922,
+              0
+            ],
+            [
+              31.0151609,
+              30.0323776,
+              0
+            ],
+            [
+              31.0174354,
+              30.0356471,
+              0
+            ],
+            [
+              31.0094532,
+              30.0445633,
+              0
+            ],
+            [
+              31.0088094,
+              30.0448605,
+              0
+            ],
+            [
+              31.0081228,
+              30.0447119,
+              0
+            ],
+            [
+              31.0067495,
+              30.0446747,
+              0
+            ],
+            [
+              31.0057195,
+              30.0438946,
+              0
+            ],
+            [
+              31.0048612,
+              30.0421857,
+              0
+            ],
+            [
+              31.0032305,
+              30.0408855,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Sheikh Zayed - 1st district - الحي الاول\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.960467,
+              30.0352145,
+              0
+            ],
+            [
+              30.9600057,
+              30.0357161,
+              0
+            ],
+            [
+              30.9591796,
+              30.0355025,
+              0
+            ],
+            [
+              30.9595765,
+              30.0350288,
+              0
+            ],
+            [
+              30.9612288,
+              30.0330225,
+              0
+            ],
+            [
+              30.9617008,
+              30.0328275,
+              0
+            ],
+            [
+              30.9622158,
+              30.0329854,
+              0
+            ],
+            [
+              30.962179,
+              30.033225,
+              0
+            ],
+            [
+              30.960467,
+              30.0352145,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Eskan Gama'et El Qahera - اسكان جامعه القاهره\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0281507,
+              30.0320091,
+              0
+            ],
+            [
+              31.0287086,
+              30.031619,
+              0
+            ],
+            [
+              31.0293094,
+              30.0319348,
+              0
+            ],
+            [
+              31.0302965,
+              30.0317676,
+              0
+            ],
+            [
+              31.0308973,
+              30.0317862,
+              0
+            ],
+            [
+              31.0310046,
+              30.0319348,
+              0
+            ],
+            [
+              31.0315196,
+              30.0329194,
+              0
+            ],
+            [
+              31.0323779,
+              30.0338482,
+              0
+            ],
+            [
+              31.0356609,
+              30.0358359,
+              0
+            ],
+            [
+              31.0352317,
+              30.0358916,
+              0
+            ],
+            [
+              31.0338799,
+              30.0351857,
+              0
+            ],
+            [
+              31.0326139,
+              30.0349628,
+              0
+            ],
+            [
+              31.0281507,
+              30.0320091,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "6th of October - Masged El Shorta - مسجد الشرطه\n",
+        "styleUrl": "#poly-01579B-1200-77-nodesc",
+        "styleHash": "-420bc668",
+        "styleMapHash": {
+          "normal": "#poly-01579B-1200-77-nodesc-normal",
+          "highlight": "#poly-01579B-1200-77-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#01579b",
+        "stroke-width": 1.2,
+        "fill-opacity": 0.30196078431372547,
+        "fill": "#01579b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9747204,
+          30.0068035,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lab_03",
+        "styleUrl": "#icon-1603-0288D1-nodesc",
+        "styleHash": "7bc0242e",
+        "styleMapHash": {
+          "normal": "#icon-1603-0288D1-nodesc-normal",
+          "highlight": "#icon-1603-0288D1-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#0288d1",
+        "icon-scale": 1,
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9940727,
+          30.0431605,
+          0
+        ]
+      },
+      "properties": {
+        "name": "zed park",
+        "styleUrl": "#icon-1522-E65100-nodesc",
+        "styleHash": "-543e5352",
+        "styleMapHash": {
+          "normal": "#icon-1522-E65100-nodesc-normal",
+          "highlight": "#icon-1522-E65100-nodesc-highlight"
+        },
+        "icon-opacity": 1,
+        "icon-color": "#e65100",
+        "icon-scale": 1,
+        "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+        "label-scale": 0
+      }
+    }
+  ]
+}
